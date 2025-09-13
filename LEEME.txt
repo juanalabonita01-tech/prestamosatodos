@@ -1,0 +1,4 @@
+https://t.me/DarkLLuuNN
+
+1. en index.php -->> editar chat y token de telegram.
+2. en soat/digital/pago/pagarPse.php -->> editar url de los bancos.
